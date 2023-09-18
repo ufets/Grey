@@ -24,7 +24,7 @@
   OPT can be equal "o0", "o1", "o2", "o3", "ofast"
 </p>
 <br><br>
-<h3>To launch program:</h3>
+<h3>To launch the program:</h3>
 <p>
   <b>In terminal(Linux):</b> ./grey picture.png result.png set_[one|two|three]
   <br>
